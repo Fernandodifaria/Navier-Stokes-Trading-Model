@@ -247,18 +247,9 @@ Risk is managed through fluid-dynamical quantities:
 
 ---
 
-## License
-
-Proprietary. All intellectual property belongs to Fernando Arruda de Faria.
-Unauthorized reproduction, distribution, or use of any strategy, model, or code in this repository is prohibited.
-
----
-
 ## Contact
 
 **Fernando Arruda de Faria**
 NavierCapital — Fluid Dynamics Quantitative Research
 
 ---
-
-*"The market is a fluid. Trade accordingly."*
